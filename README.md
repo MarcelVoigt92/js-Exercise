@@ -19,3 +19,6 @@
 
 # EXERCISE 6
 ## Create different variables and check their type
+
+# EXERCISE 7
+## Get the remainder of your favorite variables
